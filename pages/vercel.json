@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://cvijecesimeunovic.com/$1",
+      "permanent": true
+    }
+  ]
+}
